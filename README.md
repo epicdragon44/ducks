@@ -4,4 +4,4 @@ ducks.computer
 
 ---
 
-the homepage for the work of daniel wei
+a series of projects by daniel wei
